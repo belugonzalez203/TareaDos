@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OtroPunto
+comment0.text=\r\n\ .\r\n\ \r\n\ @author\ (Belen)\ \r\n\ @version\ (19/04/2021)\r\n
+comment1.params=newX\ newY
+comment1.target=OtroPunto(double,\ double)
+comment2.params=
+comment2.target=double\ getX2()
+comment3.params=
+comment3.target=double\ getY2()
+numComments=4
